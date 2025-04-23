@@ -3,7 +3,7 @@ public class StepTracker
 {
  /* to be implemented here */
  private int s;
-punlic StepTracker(int s1){
+public StepTracker(int s1){
  s = s1;
 }
 public int addDailysSteps(int spd){
@@ -17,7 +17,7 @@ public int addDailysSteps(int spd){
  else 
    d++;
 }
-public int activeDays()}
+public int activeDays(){
  return ad;
 }
 public double averageSteps(){
