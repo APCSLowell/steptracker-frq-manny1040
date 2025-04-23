@@ -2,8 +2,8 @@ import java.util.ArrayList;
 public class StepTracker
 {
  /* to be implemented here */
- private int s, total;
- private int d, ad;
+private int s, total;
+private int d, ad;
 public StepTracker(int s1){
  s = s1;
  int total = 0;
